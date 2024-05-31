@@ -1,4 +1,5 @@
 #Test of the Teamcity server
 
 ## Build should start
-### Mutiplea head branches
+### Mutiple head branches
+### Retest functionality
