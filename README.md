@@ -1,1 +1,3 @@
-Test of the Teamcity server
+#Test of the Teamcity server
+
+## Build should start
